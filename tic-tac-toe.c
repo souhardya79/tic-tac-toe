@@ -50,9 +50,9 @@ int main()
 	}while(i==-1);
 	board();
 	if(i==1)
-		printf("You Wins");
+			printf("You Wins");
 	else
-		printf("You Loss");
+			printf("You Loss");
 	getch();
 }
 //CHECING OF THE WIN OR LOSS
